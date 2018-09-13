@@ -1,7 +1,8 @@
 let azure = require('azure-storage');
 
+// CreateRating
 module.exports = function (context, req) {
-    context.log('JavaScript HTTP trigger function processed a request.');
+    context.log('JavaScript HTTP trigger CreateRating function processed a request.');
 
     var rating = JSON.parse(req.body);
     rating.timeStamp = new Date();

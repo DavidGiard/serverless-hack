@@ -1,7 +1,8 @@
 let azure = require('azure-storage');
 
+// GetRatings
 module.exports = function (context, req) {
-  context.log('JavaScript HTTP trigger function processed a request.');
+  context.log('JavaScript HTTP trigger GetRatings function processed a request.');
 
   var ratingId = req.query.ratingId;
   // Retrieve rows from Table storage or CosmosDB
