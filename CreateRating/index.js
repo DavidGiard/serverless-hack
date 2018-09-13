@@ -1,6 +1,6 @@
 let azure = require('azure-storage');
 
-// CreateRating function
+// CreateRating function!
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger CreateRating function processed a request.');
 
