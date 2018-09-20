@@ -1,0 +1,7 @@
+ponumber,datetime,locationid,locationname,locationaddress,locationpostcode,totalcost,totaltax
+AFJ030,9/3/2018 6:52:06 PM,DDD444,Wide World Importers,645 Roosevelt Avenue,98121,157,15.7
+CQG768,9/14/2018 5:39:00 PM,AAA111,Contoso Suites,123 Wholesale Road,98112,104.7,10.47
+MJD949,9/3/2018 11:02:40 PM,CCC333,VanArsdel Ltd.,789 FE Road,98052,104.75,10.475
+HRC052,8/16/2018 8:24:47 AM,DDD444,Wide World Importers,645 Roosevelt Avenue,98121,289.5,28.95
+JRK870,8/23/2018 4:35:34 PM,CCC333,VanArsdel Ltd.,789 FE Road,98052,439.4,43.94
+YJW896,8/19/2018 10:19:06 PM,AAA111,Contoso Suites,123 Wholesale Road,98112,294.65,29.465
